@@ -1,0 +1,32 @@
+comp="rock"
+player=input("")
+
+
+if player=="paper":
+    print("PLAYER WINS!")
+elif player=="scissor":
+    print("COMP WINS")
+else:
+    print==("ITS A TIE")
+    
+    
+comp="scissor"
+player=input("")
+
+if player=="paper":
+    print("COMP WINS")
+elif player=="scissor":
+    print("ITS A TIE")
+else:
+    print==("PLAYER WINS!")
+    
+    
+comp="paper"
+player=input("")
+
+if player=="paper":
+    print("ITS A TIE")
+elif player=="scissor":
+    print("PLAYER WINS!")
+else:
+    print==("COMP WINS")
